@@ -27,7 +27,7 @@
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             android:layout_marginTop="15dp"
-            android:text="15"
+            android:text="0"
             android:textColor="#90653C"
             android:textSize="28dp"
             android:textStyle="bold" />
@@ -40,7 +40,7 @@
         android:indeterminate="false"
         android:layout_centerInParent="true"
         android:max="100"
-        android:progress="50"
+        android:progress="0"
         android:progressDrawable="@drawable/back_progresse_circle"
         android:background="@drawable/back_circle_2"
         style="@style/Widget.AppCompat.ProgressBar.Horizontal"/>
